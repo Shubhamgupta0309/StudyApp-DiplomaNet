@@ -48,21 +48,18 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; padding: 10px;">
     <img src="https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/c971933d-d0e6-4074-8a68-397049c08812" alt="Homepage" width="300">
-    <p align="center">Homepage</p>
   </div>
   <div style="flex: 50%; padding: 10px;">
     <img src="https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/d71c079b-15b4-48f3-bbf4-cfea07c36af1" alt="Menu" width="300">
-    <p align="center">Menu</p>
   </div>
   <div style="flex: 50%; padding: 10px;">
     <img src="https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/1cffbbec-e5ac-4cb6-91a9-13d49e6b9a81" alt="List" width="300">
-    <p align="center">List</p>
   </div>
   <div style="flex: 50%; padding: 10px;">
     <img src="https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/ed8d2bd3-77ca-4baa-a1eb-48500ab69904" alt="Chat" width="300">
-    <p align="center">Chat</p>
   </div>
 </div>
+
 
 ## Contact
 
