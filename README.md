@@ -6,7 +6,7 @@ Welcome to the Android Study App repository! This app is designed to assist stud
 
 - [Features](#features)
 - [Installation](#installation)
-- [Contact:](#contact:)
+- [Contact](#contact:)
 
 ## Features
 
