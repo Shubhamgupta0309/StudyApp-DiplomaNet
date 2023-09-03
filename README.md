@@ -51,7 +51,7 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
 ![Screenshot 2](screenshots/screenshot2.png)
 *Caption for Screenshot 2*
 
-##Contact:
+## Contact
 
 - **Email:** shubham.gupta300904@gmail.com
 - **Instagram:** https://instagram.com/_shubham_0309?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
