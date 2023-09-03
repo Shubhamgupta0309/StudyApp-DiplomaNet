@@ -43,6 +43,14 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
 
 3. Build and run the app on an emulator or device.
 
+## Screenshots
+
+[WhatsApp Image 2023-05-10 at 11 05 32](https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/efa0a185-7242-4228-bceb-b611aa17a38f)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Caption for Screenshot 2*
+
 **Contact Information:**
 
 - **Email:** shubham.gupta300904@gmail.com
