@@ -52,6 +52,9 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
   <div style="flex: 50%; padding: 10px;">
     <img src="https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/d71c079b-15b4-48f3-bbf4-cfea07c36af1" alt="Menu" width="300">
   </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; padding: 10px;">
     <img src="https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/1cffbbec-e5ac-4cb6-91a9-13d49e6b9a81" alt="List" width="300">
   </div>
