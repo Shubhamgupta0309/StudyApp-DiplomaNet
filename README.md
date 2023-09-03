@@ -60,7 +60,6 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
   </div>
 </div>
 
-
 ## Contact
 
 - **Email:** shubham.gupta300904@gmail.com
