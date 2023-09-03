@@ -47,8 +47,11 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
 
 ![Homepage](https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/c971933d-d0e6-4074-8a68-397049c08812)
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+![Menu](https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/d71c079b-15b4-48f3-bbf4-cfea07c36af1)
+
+![list](https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/1cffbbec-e5ac-4cb6-91a9-13d49e6b9a81)
+
+![chat](https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/ed8d2bd3-77ca-4baa-a1eb-48500ab69904)
 
 ## Contact
 
