@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.diplomanet.Contactus"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/diploma_net_logo"
+        android:padding="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed &amp; Designed By :"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:textSize="25dp"
+        android:fontFamily="@font/baloo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shubham Gupta \nVipul Gupta \nDivyan Jain"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/baloo"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="diplomanet.contact@gmail.com"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/allerta"/>
+
+    <Button
+        android:id="@+id/contact_button"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle"
+        android:text="Contact Us"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

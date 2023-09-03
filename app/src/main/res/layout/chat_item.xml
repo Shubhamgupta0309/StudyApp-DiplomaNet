@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/left_chat_view"
+        android:padding="8dp"
+        android:layout_marginEnd="80dp">
+
+        <ImageView
+            android:id="@+id/chatGPT_icon"
+            android:layout_width="25dp"
+            android:layout_height="18dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/card_chat_bot" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:textIsSelectable="true"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_corner"
+            android:backgroundTint="@color/white"
+            android:id="@+id/left_chat_text_view"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+           />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/right_chat_view"
+        android:layout_alignParentEnd="true"
+        android:padding="8dp"
+        android:layout_marginStart="80dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textIsSelectable="true"
+            android:id="@+id/right_chat_text_view"
+            android:background="@drawable/rounded_corner"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            />
+        <ImageView
+            android:id="@+id/person"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:src="@drawable/ic_person" />
+    </LinearLayout>
+
+</RelativeLayout>

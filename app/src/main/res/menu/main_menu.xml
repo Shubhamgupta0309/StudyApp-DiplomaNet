@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/menu_home_icon"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/menu_profile_icon"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_all_categories"
+            android:icon="@drawable/menu_categories_icon"
+            android:title="ALL CATEGORIES" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/menu_logout_icon"
+            android:title="Logout" />
+    </group>
+
+
+    <item android:title="Categories">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_notes"
+                    android:icon="@drawable/notes"
+                    android:title="Notes" />
+                <item
+                    android:id="@+id/nav_manual"
+                    android:icon="@drawable/manual"
+                    android:title="Manual" />
+                <item
+                    android:id="@+id/nav_question_paper"
+                    android:icon="@drawable/syllabus"
+                    android:title="Question Paper" />
+                <item
+                    android:id="@+id/nav_syllabus"
+                    android:icon="@drawable/questionpaper"
+                    android:title="Syllabus" />
+                <item
+                    android:id="@+id/nav_Compiler"
+                    android:icon="@drawable/compiler"
+                    android:title="Compiler" />
+                <item
+                    android:id="@+id/nav_chat_room"
+                    android:icon="@drawable/chat_room"
+                    android:title="Chat Room" />
+                <item
+                    android:id="@+id/nav_chat_bot"
+                    android:icon="@drawable/nav_chatbot"
+                    android:title="Chat Bot" />
+
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Contact Us">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_contact_us"
+                    android:icon="@drawable/menu_contact_us_icon"
+                    android:title="Contact Us" />
+            </group>
+        </menu>
+    </item>
+</menu>

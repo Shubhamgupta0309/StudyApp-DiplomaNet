@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163813656534",
+    "project_id": "diploma-net-app",
+    "storage_bucket": "diploma-net-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163813656534:android:39d87153c1047fe322c677",
+        "android_client_info": {
+          "package_name": "com.example.diplomanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163813656534-4hjepdad9do42kvub4r1dkurp7hn368r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0nb6ZuV1XrT_jP94US9QPFtOK4J2onk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163813656534-4hjepdad9do42kvub4r1dkurp7hn368r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
