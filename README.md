@@ -45,8 +45,7 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
 
 ## Screenshots
 
-[WhatsApp Image 2023-05-10 at 11 05 32](https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/efa0a185-7242-4228-bceb-b611aa17a38f)
-*Caption for Screenshot 1*
+![Homepage](https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet/assets/122101804/c971933d-d0e6-4074-8a68-397049c08812)
 
 ![Screenshot 2](screenshots/screenshot2.png)
 *Caption for Screenshot 2*
