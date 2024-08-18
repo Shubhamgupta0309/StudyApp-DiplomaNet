@@ -39,19 +39,6 @@
         <activity
             android:name="com.example.diplomanet.syllabus.EJsyllabus"
             android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.syllabus.COsyllabus"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.syllabus.IFsyllabus"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.manual.MEmanual"
-            android:exported="false"
-            android:screenOrientation="portrait" />
         <activity
             android:name="com.example.diplomanet.manual.CEmanual"
             android:exported="false"
@@ -66,18 +53,6 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="com.example.diplomanet.manual.IFmanual"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.qp.MEquestionpaper"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.qp.CEquestionpaper"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.qp.EJquestionpaper"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
@@ -158,18 +133,6 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="com.example.diplomanet.manual.Manual"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.Login"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.Singup"
-            android:exported="false"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.diplomanet.HomePage"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
